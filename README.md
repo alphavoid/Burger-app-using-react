@@ -5,7 +5,7 @@
 
 2. Install all the required packages/dependencies using npm
 
-<mark>npm</mark>
+`npm`
 Serve the app to browser
 
-<mark>npm start</mark>
+`npm start`
